@@ -10,8 +10,8 @@ I'm a Bio-Engineer passionate about bridging the gap between complex biological 
 * **Ask me about:** Data modeling, bio-engineering applications, or whatever is tech related.
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/link@linkedin.com) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myemail@gmai.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willliam-pozzolini-33bba2200/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williampoz15@gmail.com) 
 
 ---
 
