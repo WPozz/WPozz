@@ -48,19 +48,12 @@ I'm a Bio-Engineer passionate about bridging the gap between complex biological 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WPozz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPozz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=WPozz&theme=dark&hide_border=false" width="98%" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WPozz&theme=dark&hide_border=false" width="98%" />
 
-<br/>
+## :dizzy: Some Art:
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <br/><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=WPozz&icon=0&color=0" alt="Profile Views" />
-  </a>
+ <img width="1280" height="853" alt="immagine" src="https://github.com/user-attachments/assets/bdf408ba-a35a-4c04-9105-7ddfbabf3da2" />
 </div>
+
+
